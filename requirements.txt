@@ -1,0 +1,9 @@
+tiktoken
+torch
+numpy
+pandas
+jupyterlab
+notebook
+pytest
+black
+flake8
